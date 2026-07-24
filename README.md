@@ -6,24 +6,24 @@ This repository is my learning project for building a ray tracer in **C++**, wit
 
 Rendered gradient and scene outputs are stored in:
 
-- `/home/runner/work/RayTracer/RayTracer/images`
+- `images/`
 
-### 1) output.ppm
+### 1) output.png
 
-![output.ppm](images/output.ppm)
+![output.png](images/output.png)
 
-### 2) sky_gradient.ppm
+### 2) sky_gradient.png
 
-![sky_gradient.ppm](images/sky_gradient.ppm)
+![sky_gradient.png](images/sky_gradient.png)
 
-### 3) sky_gradient_circleRed.ppm
+### 3) sky_gradient_circleRed.png
 
-![sky_gradient_circleRed.ppm](images/sky_gradient_circleRed.ppm)
+![sky_gradient_circleRed.png](images/sky_gradient_circleRed.png)
 
-### 4) sky_gradient_circleGreen.ppm
+### 4) sky_gradient_circleGreen.png
 
-![sky_gradient_circleGreen.ppm](images/sky_gradient_circleGreen.ppm)
+![sky_gradient_circleGreen.png](images/sky_gradient_circleGreen.png)
 
-### 5) sky_gradient_circleCyan.ppm
+### 5) sky_gradient_circleCyan.png
 
-![sky_gradient_circleCyan.ppm](images/sky_gradient_circleCyan.ppm)
+![sky_gradient_circleCyan.png](images/sky_gradient_circleCyan.png)
